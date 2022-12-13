@@ -1,0 +1,17 @@
+[
+    {
+        "rock": "draw",
+        "paper": "lose",
+        "scissors": "win"
+    },
+    {
+        "rock": "win",
+        "paper": "draw",
+        "scissors": "lose"
+    },
+    {
+        "rock": "lose",
+        "paper": "win",
+        "scissors": "draw"
+    }
+]
